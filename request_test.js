@@ -6,3 +6,5 @@ request("https://www.yahoo.co.jp").then((res) => {
 }).then((body) => {
         console.log(body);
 })
+
+console.log("aaa");
